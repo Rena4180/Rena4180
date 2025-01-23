@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rena!
 
 ## 👩‍💻 About Me
-- 🎂 I'm 17 years old
+- 🎂 I'm 15 years old
 - 🌎 I speak Russian and English
 - 🖥️ Backend and Frontend Developer
 - 🍎 Apple Tech Enthusiast
