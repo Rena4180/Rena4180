@@ -8,7 +8,7 @@
 
 ## 💻 Tech Stack
 - 🎯 Frontend: Svelte
-- ⚡ Backend: PHP (Laravel)
+- ⚡ Backend: PHP, C#, Express.JS
 
 ## 🗣️ Languages
 - 🇷🇺 Russian (Native)
